@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'gcp-cloudbuild-gce-angular';
+  title = 'gcp-cloudbuild-gce-angular-new';
 }
