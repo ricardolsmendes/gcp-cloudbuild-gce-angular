@@ -2,7 +2,7 @@
 
 A sample Angular project to be deployed to Google Compute Engine using Google Cloud Build.
 
-## Get to know the concepts
+## Get to know the concepts behind this code
 
 [Continuous Delivery in Google Cloud Platform — Cloud Build with Compute
 Engine](https://medium.com/google-cloud/continuous-delivery-in-google-cloud-platform-cloud-build-with-compute-engine-a95bf4fd1821)
